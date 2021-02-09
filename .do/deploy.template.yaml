@@ -5,7 +5,7 @@ spec:
     github:
       branch: Spring21
       deploy_on_push: true
-      repo: mitmath/18S191
+      repo: pankgeorg/18S191
     http_port: 1234
     instance_count: 1
     instance_size_slug: basic-m
